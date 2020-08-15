@@ -1,0 +1,15 @@
+( S ( NP ( ART "An" )( N "boy" )( PP (P "for" ) ( NP ( PRON "I" ))))( VP ( V "play" )( NP ( N "play" ))))
+( S ( NP ( PRON "I" ))( VP ( V "play" )( NP ( ART "a" )( N "boy" )( PP (P "with" ) ( NP ( ART "the" )( N "boy" ))))))
+( S ( NP ( PRON "I" ))( VP ( V "play" )( NP ( ART "a" )( N "boy" ))( PP (P "with" ) ( NP ( ART "the" )( N "boy" )))))
+( S ( NP ( PRON "I" ))( VP ( V "saw" )( NP ( ART "a" )( N "boy" )( PP (P "with" ) ( NP ( ART "a" )( N "telescope" ))))))
+( S ( NP ( PRON "I" ))( VP ( V "saw" )( NP ( ART "a" )( N "boy" ))( PP (P "with" ) ( NP ( ART "a" )( N "telescope" )))))
+( S ( NP ( PRON "We" ))( VP ( V "play" )( NP ( N "football" ))))
+( S ( NP ( PRON "They" ))( VP ( V "eat" )( NP ( ART "the" )( N "jam" ))))
+Not Parsable
+( S ( NP ( PRON "You" ))( VP ( V "saw" )( NP ( ART "a" )( N "play" ))))
+( S ( NP ( PRON "I" ))( VP ( V "play" )( NP ( ART "an" )( N "boy" )( PP (P "with" ) ( NP ( ART "an" )( N "boy" )( PP (P "with" ) ( NP ( ART "an" )( N "boy" )( PP (P "with" ) ( NP ( PRON "I" ))))))))))
+( S ( NP ( PRON "I" ))( VP ( V "play" )( NP ( ART "an" )( N "boy" ))( PP (P "with" ) ( NP ( ART "an" )( N "boy" )( PP (P "with" ) ( NP ( ART "an" )( N "boy" )( PP (P "with" ) ( NP ( PRON "I" )))))))))
+Not Parsable
+( S ( NP ( ART "a" )( N "boy" ))( VP ( V "saw" )( NP ( N "play" ))))
+( S ( NP ( ART "A" )( N "jam" )( PP (P "for" ) ( NP ( ART "a" )( N "saw" )( PP (P "with" ) ( NP ( ART "the" )( N "book" )( PP (P "for" ) ( NP ( PRON "I" ))))))))( VP ( V "eat" )( NP ( ART "a" )( N "saw" )( PP (P "for" ) ( NP ( ART "the" )( N "jam" )( PP (P "with" ) ( NP ( ART "a" )( N "football" )( PP (P "for" ) ( NP ( ART "the" )( N "telescope" )( PP (P "with" ) ( NP ( PRON "you" ))))))))))))
+( S ( NP ( ART "A" )( N "jam" )( PP (P "for" ) ( NP ( ART "a" )( N "saw" )( PP (P "with" ) ( NP ( ART "the" )( N "book" )( PP (P "for" ) ( NP ( PRON "I" ))))))))( VP ( V "eat" )( NP ( ART "a" )( N "saw" ))( PP (P "for" ) ( NP ( ART "the" )( N "jam" )( PP (P "with" ) ( NP ( ART "a" )( N "football" )( PP (P "for" ) ( NP ( ART "the" )( N "telescope" )( PP (P "with" ) ( NP ( PRON "you" )))))))))))
