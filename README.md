@@ -15,7 +15,7 @@ V → saw | play | eat | study | jam<br/>
 P → with | for<br/>
 <br/>Parser shows whether the sentences are parsable or not, and if it is parsable then output the parsing of each sentences be in bracketed parse (tree) format in a text file (output.txt) as shown below. If there are multiple parses for a sentence it shows at least two parses.<br/>
 
-Example:
-The sentence “I saw a boy with a telescope” has two possible parses:
- ( S ( NP ( PRON “I” ) ) ( VP ( V “saw” )( NP ( ART “a”) ( N “boy”)) ( PP ( P “with”) ( NP ( ART “a” ) ( N “telescope”)))))
- ( S ( NP ( PRON “I” ) ) ( VP ( V “saw” ) ( NP ( ART “a”) ( N “boy”) ( PP ( P “with”) ( NP ( ART “a” ) ( N “telescope”))))))
+Example:<br/>
+The sentence “I saw a boy with a telescope” has two possible parses:<br/>
+ ( S ( NP ( PRON “I” ) ) ( VP ( V “saw” )( NP ( ART “a”) ( N “boy”)) ( PP ( P “with”) ( NP ( ART “a” ) ( N “telescope”)))))<br/>
+ ( S ( NP ( PRON “I” ) ) ( VP ( V “saw” ) ( NP ( ART “a”) ( N “boy”) ( PP ( P “with”) ( NP ( ART “a” ) ( N “telescope”))))))<br/>
